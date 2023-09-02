@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋 I`m Azaria Putri Fawnia
 <h2 align="center"> An undergraduate student at Sepuluh Nopember Institute of Technology (ITS) </h2>
 
-<p align="left"> - 🌱 I'm currently studying Computer Engineering at ITS <br>
+<p align="left"> - 🌱 I'm currently studying **Computer Engineering** at **ITS** <br>
 <p align="left"> - 📫 Reach me at <a href="mailto:zafawniar@gmail.com">zafawniar@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
