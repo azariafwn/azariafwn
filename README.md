@@ -10,6 +10,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank"> <img src="https://static.canva.com/static/images/canva_logo_100x100@2x.png" alt="canva" width="40" height="40"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/latex3/branding/blob/master/latex-project_logo/latex-project-logo.jpg" alt="LaTeX" width="160" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azariafwn&show_icons=true&locale=en&theme=nord" alt="zer0-911" height="125"/>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azariafwn&show_icons=true&locale=en&layout=compact&theme=nord" alt="zer0-911" height="125" /></p>
