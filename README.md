@@ -10,7 +10,7 @@ Saya percaya pada kekuatan teknologi untuk menciptakan solusi yang efisien dan c
 
 ---
 
-## 🛠️ Tumpukan Teknologi & Keahlian
+## 🛠️ Tech Stack & Keahlian
 
 Berikut adalah beberapa teknologi, bahasa, dan platform yang saya kuasai dan gunakan dalam proyek-proyek saya:
 
