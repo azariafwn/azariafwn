@@ -67,7 +67,7 @@ Berikut adalah beberapa proyek yang telah saya kerjakan, mencakup berbagai bidan
 
 | Proyek | Deskripsi Singkat | Teknologi Utama |
 | :--- | :--- | :--- |
-| **[Portal Berita Winnicode](https://github.com/azariafwn/Winnicode-News-Portal)** <br> _([Live Demo](https://winnicode-webbapp.azurewebsites.net/))_ | Portal berita full-stack (hasil magang) dengan CMS 3 peran (Pembaca, Penulis, Editor) & alur kerja verifikasi konten. Di-deploy di Microsoft Azure. | `ASP.NET Core MVC`, `C#`, `EF Core`, `MySQL`, `Azure` |
+| **[Portal Berita Winnicode](https://github.com/azariafwn/Winnicode-News-Portal)** | Portal berita full-stack (hasil magang) dengan CMS 3 peran (Pembaca, Penulis, Editor) & alur kerja verifikasi konten. Di-deploy di Microsoft Azure. | `ASP.NET Core MVC`, `C#`, `EF Core`, `MySQL`, `Azure` |
 | **[Aplikasi SAPPY](https://github.com/azariafwn/Ternaknesia_SappyApp)** | Aplikasi mobile untuk manajemen peternakan sapi perah, dengan arsitektur mikroservis & fitur prediksi AI untuk optimasi pakan. | `Flutter`, `Node.js`, `Python (Flask)`, `PostgreSQL`, `AI` |
 | **[Analisis Pasar Forex](https://github.com/azariafwn/ProjectBigData)** | Proyek data science end-to-end: scraping data forex, visualisasi dashboard analitik, dan melatih model prediksi harga menggunakan LSTM. | `Python`, `Pandas`, `TensorFlow`, `Metabase`, `Docker` |
 | **[Web Manajemen Pelamar](https://github.com/azariafwn/Applicant_web)** | Aplikasi web untuk manajemen data pelamar, dibangun dengan template admin modern (Velzon) dan tabel data interaktif (DataTables.js). | `ASP.NET Core MVC`, `C#`, `DataTables.js` |
